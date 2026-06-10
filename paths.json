@@ -1,6 +1,7 @@
 {
   "mappings": [
-    "/content/aem-eds/:/"
+    "/content/aem-eds/:/",
+    "/content/aem-eds/index:/"    
   ],
   "includes": [
     "/content/aem-eds/"
